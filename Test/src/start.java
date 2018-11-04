@@ -10,4 +10,8 @@ public class start {
 	public copyPaste() {
 		System.out.println("Hello World");
 	}
+	public copyPasteTheSecond() {
+		System.out.println("Hello World");
+	}
+}
 }
