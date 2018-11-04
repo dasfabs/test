@@ -18,7 +18,7 @@ public class start {
 	}
 
 	// TODO fix method 
-	public copySecond() {
+	public void copySecond() {
 	    // fixed return value
 		System.out.println("Hello World");
 		//asdasdasdasdasdsad
