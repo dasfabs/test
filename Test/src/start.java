@@ -9,7 +9,8 @@ public class start {
 		// Das ist ein Hammerkommentar von keinem Geringeren als Boris
 	}
 	
-	public copyPaste() {
+	public void copyPaste() {
 		System.out.println("Hello World");
+		// Das ist von Martin.
 	}
 }
