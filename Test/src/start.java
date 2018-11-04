@@ -16,7 +16,7 @@ public class start {
 		// Das ist von Martin.
 		//fhgfhghgfhgfhgfhgfhgf
 	}
-	public copySecond() {
+	public void copySecond() {
 	    // fixed return value
 		System.out.println("Hello World");
 		//asdasdasdasdasdsad
