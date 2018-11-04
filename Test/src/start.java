@@ -5,10 +5,13 @@ public class start {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Hello World ds vfdv ");
+
+		// Das ist ein Hammerkommentar von keinem Geringeren als Boris
 	}
 	
-	public copyPaste() {
+	public void copyPaste() {
 		System.out.println("Hello World");
+		// Das ist von Martin.
 	}
 	public copyPasteTheSecond() {
 		System.out.println("Hello World");
