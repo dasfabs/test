@@ -5,7 +5,6 @@ public class start {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Hello World ds vfdv ");
-
 		System.out.println("Die Quadratzahl von 5 ist " + quadratZahl(5));
 		System.out.println(begruessung("Martin"));
 
@@ -17,18 +16,23 @@ public class start {
 		// Das ist von Martin.
 		//fhgfhghgfhgfhgfhgfhgf
 	}
-	public void copySecond() {
+
+	// TODO fix method 
+	public copySecond() {
 	    // fixed return value
 		System.out.println("Hello World");
 		//asdasdasdasdasdsad
 		System.out.println("Martin");
 	}
 
+<<<<<<< HEAD
 	private static int quadratZahl(int n) {
 		//das it quatsch
 	    return n * n;
     }
 
+=======
+>>>>>>> branch 'master' of https://github.com/dasfabs/test.git
     private static String begruessung(String name) {
 	    return "Hallo " + name + ", schönen Sonntag!";
     }
