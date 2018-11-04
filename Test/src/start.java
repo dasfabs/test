@@ -5,6 +5,8 @@ public class start {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Hello World ds vfdv ");
+		System.out.println("Die Quadratzahl von 5 ist " + quadratZahl(5));
+		System.out.println(begruessung("Martin"));
 
 		// Das ist ein Hammerkommentar von keinem Geringeren als Boris
 	}
@@ -21,5 +23,9 @@ public class start {
 		//asdasdasdasdasdsad
 		System.out.println("Martin");
 	}
+
+    private static String begruessung(String name) {
+	    return "Hallo " + name + ", schönen Sonntag!";
+    }
 
 }
