@@ -3,7 +3,8 @@ public class start {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//alles it scheiﬂe
+		//alles ist schei√üe
+        //Encoding gefixt.
 		System.out.println("Hello World");
 		System.out.println("Hello World ds vfdv ");
 
