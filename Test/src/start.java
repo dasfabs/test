@@ -25,14 +25,13 @@ public class start {
 		System.out.println("Martin");
 	}
 
-<<<<<<< HEAD
+
 	private static int quadratZahl(int n) {
 		//das it quatsch
 	    return n * n;
     }
 
-=======
->>>>>>> branch 'master' of https://github.com/dasfabs/test.git
+
     private static String begruessung(String name) {
 	    return "Hallo " + name + ", schönen Sonntag!";
     }
