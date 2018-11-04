@@ -25,6 +25,7 @@ public class start {
 	}
 
 	private static int quadratZahl(int n) {
+		//das it quatsch
 	    return n * n;
     }
 
