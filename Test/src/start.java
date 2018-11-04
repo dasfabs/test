@@ -15,8 +15,9 @@ public class start {
 		System.out.println("Hello World");
 		// Das ist von Martin.
 	}
-	public copyPasteTheSecond() {
+	public void copyPasteTheSecond() {
+	    // fixed return value
 		System.out.println("Hello World");
 	}
-}
+
 }
