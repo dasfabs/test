@@ -12,9 +12,11 @@ public class start {
 	public void copyHaste() {
 		System.out.println("Hello World");
 		// Das ist von Martin.
+		//fhgfhghgfhgfhgfhgfhgf
 	}
-	public copyPasteTheSecond() {
+	public void copyPasteTheSecond() {
+	    // fixed return value
 		System.out.println("Hello World");
 	}
-}
+
 }
