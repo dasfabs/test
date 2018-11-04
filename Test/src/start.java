@@ -25,6 +25,12 @@ public class start {
 		System.out.println("Martin");
 	}
 
+
+	private static int quadratZahl(int n) {
+		//das it quatsch
+	    return n * n;
+    }
+
     private static String begruessung(String name) {
 	    return "Hallo " + name + ", schönen Sonntag!";
     }
