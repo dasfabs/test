@@ -6,6 +6,12 @@ public class start {
 		//alles it scheiﬂe
 		System.out.println("Hello World");
 		System.out.println("Hello World ds vfdv ");
-	}
 
+		// Das ist ein Hammerkommentar von keinem Geringeren als Boris
+	}
+	
+	public void copyPaste() {
+		System.out.println("Hello World");
+		// Das ist von Martin.
+	}
 }
