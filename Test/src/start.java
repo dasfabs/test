@@ -14,6 +14,7 @@ public class start {
 	public void copyPaste() {
 		System.out.println("Hello World");
 		// Das ist von Martin.
+		//fhgfhghgfhgfhgfhgfhgf
 	}
 	public copyPasteTheSecond() {
 		System.out.println("Hello World");
