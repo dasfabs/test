@@ -6,6 +6,8 @@ public class start {
 		System.out.println("Hello World");
 		System.out.println("Hello World ds vfdv ");
 
+		System.out.println("Die Quadratzahl von 5 ist " + quadratZahl(5));
+
 		// Das ist ein Hammerkommentar von keinem Geringeren als Boris
 	}
 	
@@ -20,5 +22,9 @@ public class start {
 		//asdasdasdasdasdsad
 		System.out.println("Martin");
 	}
+
+	private static int quadratZahl(int n) {
+	    return n * n;
+    }
 
 }
