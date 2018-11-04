@@ -11,7 +11,7 @@ public class start {
 		// Das ist ein Hammerkommentar von keinem Geringeren als Boris
 	}
 	
-	public void copyHaste1123() {
+	public void copyPaste() {
 		System.out.println("Hello World");
 		// Das ist von Martin.
 		//fhgfhghgfhgfhgfhgfhgf
