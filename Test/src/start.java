@@ -31,6 +31,7 @@ public class start {
 	    return n * n;
     }
 
+
     private static String begruessung(String name) {
 	    return "Hallo " + name + ", schönen Sonntag!";
     }
