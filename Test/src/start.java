@@ -16,6 +16,7 @@ public class start {
 		// Das ist von Martin.
 		//fhgfhghgfhgfhgfhgfhgf
 	}
+
 	// TODO fix method 
 	public copySecond() {
 	    // fixed return value
