@@ -8,5 +8,8 @@ public class start {
 
 		// Das ist ein Hammerkommentar von keinem Geringeren als Boris
 	}
-
+	
+	public copyPaste() {
+		System.out.println("Hello World");
+	}
 }
